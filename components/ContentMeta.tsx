@@ -1,12 +1,5 @@
 import { Head } from "$fresh/runtime.ts";
-
-const DEFAULT_KEYWORDS = [
-  "ghsearch",
-  "github",
-  "search",
-  "gh"
-];
-
+import { DEFAULT_KEYWORDS } from "../data/meta.ts";
 
 interface ContentMetaProps {
   title: string;
