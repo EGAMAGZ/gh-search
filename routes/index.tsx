@@ -9,7 +9,7 @@ export default function HomePage() {
       <div class="flex flex-col h-screen">
         <Navbar>
           <div class="flex-1 flex items-center justify-center">
-            <h1 class="text-lg md:text-xl font-semibold">
+            <h1 class="text-lg md:text-xl font-semibold font-quicksand">
               Welcome to GH Search!
             </h1>
           </div>
